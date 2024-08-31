@@ -1,6 +1,7 @@
 Here’s a README file tailored to the structure and technologies you used:
 
 ---
+here is the datalink :https://www.kaggle.com/code/shailaja4247/customer-lifetime-value-prediction/input
 
 # Customer Profiling Using RFM and CLV
 
