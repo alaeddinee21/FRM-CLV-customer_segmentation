@@ -1,5 +1,3 @@
-Here’s a README file tailored to the structure and technologies you used:
-
 ---
 here is the datalink :https://www.kaggle.com/code/shailaja4247/customer-lifetime-value-prediction/input
 
@@ -110,7 +108,4 @@ This project provides a detailed breakdown of customer behavior, including activ
   - The **Low-Value segment** shows some misclassifications, meaning you might need to revisit the features or consider other variables to better identify these customers for retention campaigns.
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
-
-Feel free to adjust any section of this README to better match your project details!
